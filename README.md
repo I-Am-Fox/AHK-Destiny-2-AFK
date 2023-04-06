@@ -11,7 +11,7 @@ Installation
 
 How to Install the zip file.
 
-ㅤ1. Install the latest release of the Tabbed Out AFK
+ㅤ1. Install the latest release of the Tabbed Out AFK (Currently need to download as .zip)
 
 ㅤ2. Open the zip file and all the folders that you need should be in there
 
