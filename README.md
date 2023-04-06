@@ -31,7 +31,7 @@ How to install AHK Library.
 
 Once everything is installed you can open the Macro folder and start using the afk scripts.
 
-If you have any questions ask either IceCubes#6612 or A 2016 Toyota Corolla#3074 on Discord
+If you have any questions, please message DylaNN#0206 on discord.
 InGame settings that must be changed
 
 You have to change your controller ingame sensitivity to 20 This should be located in (Settings -> Controller -> Look Sensitivity)
