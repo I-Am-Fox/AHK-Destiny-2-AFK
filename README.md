@@ -1,5 +1,5 @@
-Tabbed-Out-AFK
-About
+# Tabbed-Out-AFK
+## About
 
 AFK xp macro for Destiny 2 where you can tab out of the game while its running and use your PC as normal
 How it Works
@@ -9,13 +9,13 @@ ViGEmBus is a driver that emulates a PS4 Controller or Xbox 360 Controller. This
 So using ViGEmBus makes it possible to make macros for controllers without owning a controller/needing to pay 600 dollar for a scuff controller to get macros. And thanks to Evilc who made a wrapper so it can be all done through AHK
 Installation
 
-How to Install the zip file.
+## How to Install the zip file.
 
 ㅤ1. Install the latest release of the Tabbed Out AFK (Currently need to download as .zip)
 
 ㅤ2. Open the zip file and all the folders that you need should be in there
 
-How to install VIGEmBus for a emulated controller.
+## How to install VIGEmBus for a emulated controller.
 
 ㅤ1. Inside the zip file open VIGEmBus folder
 
@@ -31,7 +31,7 @@ How to install AHK Library.
 
 Once everything is installed you can open the Macro folder and start using the afk scripts.
 
-If you have any questions, please message DylaNN#0206 on discord.
+If you have any questions, please message Dreamyy#0206 on discord.
 InGame settings that must be changed
 
 You have to change your controller ingame sensitivity to 20 This should be located in (Settings -> Controller -> Look Sensitivity)
