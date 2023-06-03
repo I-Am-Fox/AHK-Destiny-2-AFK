@@ -32,7 +32,7 @@ How to install AHK Library.
 
 Once everything is installed you can open the Macro folder and start using the afk scripts.
 
-If you have any questions, please message Luna[Nix]#7580 on discord.
+If you have any questions, please message Luna[Nix]#7580 on discord. I will not be providing support for things that are out of my control, included but not limited to .dll failed to load.
 InGame settings that must be changed
 
 You have to change your controller ingame sensitivity to 20 This should be located in (Settings -> Controller -> Look Sensitivity)
