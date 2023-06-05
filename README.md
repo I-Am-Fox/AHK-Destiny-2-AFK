@@ -1,4 +1,6 @@
 # Tabbed-Out-AFK
+## Note: This is not the original. This is my personal repository where I have control and update where I see fit. 
+
 ## About
 
 AFK xp macro for Destiny 2 where you can tab out of the game while its running and use your PC as normal
